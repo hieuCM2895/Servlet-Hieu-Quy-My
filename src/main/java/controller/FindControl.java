@@ -1,5 +1,5 @@
 package controller;
 
 public class FindControl {
-    private int id = 2;
+    private int id = 1;
 }
